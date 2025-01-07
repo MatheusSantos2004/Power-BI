@@ -1,1 +1,10 @@
+Este relatório foi criado usando a base de dados do Livro Microsoft Power BI em que é feita uma simulação de uma escola de cursos de aperfeiçoamento profissional e é verificada a situação 
+dos resultados de vendas
 
+Utilizei está base de dados e criei o projeto visando responder as seguintes perguntas:
+
+1 - Qual(is) curso(s) teve mais arrecadação em relação ao total arrecadado?
+2 - Como está a correlação entre as matrículas e a arrecadação? Os cursos com mais matrículas são os que mais arrecadam?
+3 - Qual(is) curso(s) atingiram ou ultrapassaram a meta de arrecadação esperada e quais ficaram abaixo da mesma?
+
+Criei 3 relatórios, onde cada um apresenta as situações propostas pelas perguntas e a análise dos dados trazendo as resposta de cada um.
