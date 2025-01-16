@@ -1,0 +1,13 @@
+Este relatório foi criado usando a segunda base de dados do Livro Microsoft Power BI que foi um exercício solicitado para cria-lá, contendo os dados de lojas em 4 estados diferentes com dados de 
+unidades vendidas e metas em R$ como principal.
+
+Utilizei está base de dados e criei o projeto visando responder as seguintes perguntas:
+
+1 - Quantas unidades foram vendidas por estado?
+2 - Qual a meta de R$ esperada por loja e qual foi a arrecadação final? 
+3 - Qual foi a meta de unidades vendidas esperada por loja e qual a arrecadação final?
+4- Como está o que foi arrecadado por estado? Qual(is) deram lucro ou prejuízo
+
+Criei 4 relatórios, onde cada um apresenta as situações propostas pelas perguntas e a análise dos dados trazendo as resposta de cada um. Abaixo tem o link dos mesmos publicados no Serviço do Power BI da Web:
+
+Também há fotos anexadas dos visuais caso deseje visualizar mais rapidamente.
