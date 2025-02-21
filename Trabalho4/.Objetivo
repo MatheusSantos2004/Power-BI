@@ -1,1 +1,14 @@
+Este relatório foi feito com uma base de dados criada manualmente, com dados da temporada da equipe FC Barcelona em LaLiga do ano de 22-23.
 
+Utilizei está base de dados e criei o projeto visando responder as seguintes perguntas:
+
+1- Como foram os números do FC Barcelona em LaLiga na temporada 22-23?
+2- Quais foram os jogos realizados, resultados e como foi o desempenho contra cada time?
+3- Estatísticas dos jogadores com base em gols e assistências e a participação total de gols.
+4- Estatísticas dos jogadores com base em cartões amarelos e vermelhos.
+
+Criei algumas páginas no relatório para responder as perguntas acima, demonstrando as informações coletada e análises realizadas. Abaixo tem o link dos mesmos publicados no Serviço do Power BI da Web:
+
+https://app.powerbi.com/view?r=eyJrIjoiMjlhZjgxYjMtNzg4ZS00NGU3LTkzNzItYmY4MmYwN2UwZGI1IiwidCI6ImMyMGY3MGNkLWJjZWMtNDA0ZC05YTVkLTcyOTU0MWE3OTc1MCJ9
+
+Também estará disponível as fotos dos visuais e o link para download do arquivo .pbix
